@@ -5,10 +5,9 @@ function myAnimal() {
 }
 
 var animal = 'cat'
-function yourAnimal() = {
-  return animal
+function yourAnimal (){
+  return animal 
 }
-  
   
   // How can we make sure that this function
   // and the above function both pass?
